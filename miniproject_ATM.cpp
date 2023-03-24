@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #include<conio.h>
 using namespace std;
-/* Mini Project based on ATM system ----
+/* Mini Project based on ATM system -------
                             check Balance
                             cash withdrawl
                             user Details 
